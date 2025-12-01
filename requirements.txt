@@ -4,7 +4,6 @@ bs4==0.0.1
 certifi==2022.9.24
 charset-normalizer==2.1.1
 Cython==0.29.32
-gm==3.0.144
 grpcio==1.50.0
 idna==3.4
 lxml==4.9.1
@@ -22,3 +21,4 @@ tushare==1.2.85
 typing==3.7.4.3
 urllib3==1.26.12
 websocket-client==0.57.0
+
