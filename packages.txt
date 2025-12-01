@@ -1,3 +1,4 @@
-gfortran         
-libopenblas-dev   
-liblapack-dev     
+gfortran
+libopenblas-dev
+liblapack-dev
+libopenblas-pkg-config
